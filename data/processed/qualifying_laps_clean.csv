@@ -1,0 +1,310 @@
+driver,team,lap,lap_time_s,position,compound,stint,tyre_age,status,pit_in_s,pit_out_s,deleted,generated,quali_session,yellow,safety_car,red_flag,vsc,neutralised,is_in_lap,is_out_lap,is_valid_lap
+ALB,Williams,1,,,SOFT,1,1,1,,861.796,False,False,Q1,False,False,False,False,False,False,True,False
+ALB,Williams,2,92.94,,SOFT,1,2,1,1065.702,,False,False,Q1,False,False,False,False,False,True,False,False
+ALB,Williams,3,,,SOFT,2,1,12,,1179.684,False,False,Q1,True,False,False,False,False,False,True,False
+ALB,Williams,4,90.666,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+ALB,Williams,5,102.941,,SOFT,2,3,1,1481.202,,False,False,Q1,False,False,False,False,False,True,False,False
+ALB,Williams,6,,,SOFT,3,1,1,,1641.258,False,False,Q1,False,False,False,False,False,False,True,False
+ALB,Williams,7,90.638,,SOFT,3,2,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+ALB,Williams,8,115.541,,SOFT,3,3,1,1980.135,,False,False,Q1,False,False,False,False,False,True,False,False
+ALB,Williams,9,,,SOFT,4,1,12,,2851.763,False,False,Q2,True,False,False,False,False,False,True,False
+ALB,Williams,10,91.341,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+ALB,Williams,11,113.828,,SOFT,4,3,1,3161.45,,False,False,Q2,False,False,False,False,False,True,False,False
+ALB,Williams,12,,,SOFT,5,1,1,,3450.362,False,False,Q2,False,False,False,False,False,False,True,False
+ALB,Williams,13,90.743,,SOFT,5,2,1,,,True,False,Q2,False,False,False,False,False,False,False,False
+ALB,Williams,14,117.857,,SOFT,5,3,1,3771.174,,False,False,Q2,False,False,False,False,False,True,False,False
+ALO,Aston Martin,1,,,SOFT,1,1,1,,831.437,False,False,Q1,False,False,False,False,False,False,True,False
+ALO,Aston Martin,2,101.031,,SOFT,1,2,1,1041.405,,False,False,Q1,False,False,False,False,False,True,False,False
+ALO,Aston Martin,3,,,SOFT,2,1,1,,1093.444,False,False,Q1,False,False,False,False,False,False,True,False
+ALO,Aston Martin,4,123.715,,SOFT,2,2,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+ALO,Aston Martin,5,93.025,,SOFT,2,3,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+ALO,Aston Martin,6,104.387,,SOFT,2,4,1,1527.217,,False,False,Q1,False,False,False,False,False,True,False,False
+ALO,Aston Martin,7,,,SOFT,3,1,12,,1696.145,False,False,Q1,True,False,False,False,False,False,True,False
+ALO,Aston Martin,8,92.888,,SOFT,3,2,1,,,True,False,Q1,False,False,False,False,False,False,False,False
+ALO,Aston Martin,9,106.929,,SOFT,3,3,1,2010.117,,False,False,Q1,False,False,False,False,False,True,False,False
+ANT,Mercedes,1,,,SOFT,1,4,1,,1057.655,False,False,Q1,False,False,False,False,False,False,True,False
+ANT,Mercedes,2,89.719,,SOFT,1,5,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+ANT,Mercedes,3,114.232,,SOFT,1,6,1,1371.342,,False,False,Q1,False,False,False,False,False,True,False,False
+ANT,Mercedes,4,,,SOFT,2,8,1,,1543.836,False,False,Q1,False,False,False,False,False,False,True,False
+ANT,Mercedes,5,90.261,,SOFT,2,9,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+ANT,Mercedes,6,109.689,,SOFT,2,10,12,1837.815,,False,False,Q1,True,False,False,False,False,True,False,False
+ANT,Mercedes,7,,,SOFT,3,1,12,,2903.322,False,False,Q2,True,False,False,False,False,False,True,False
+ANT,Mercedes,8,116.749,,SOFT,3,2,1,,,True,False,Q2,False,False,False,False,False,False,False,False
+ANT,Mercedes,9,89.043,,SOFT,3,3,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+ANT,Mercedes,10,101.46,,SOFT,3,4,1,3327.48,,False,False,Q2,False,False,False,False,False,True,False,False
+ANT,Mercedes,11,,,SOFT,4,1,1,,3481.94,False,False,Q2,False,False,False,False,False,False,True,False
+ANT,Mercedes,12,88.493,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+ANT,Mercedes,13,110.888,,SOFT,4,3,1,3782.674,,False,False,Q2,False,False,False,False,False,True,False,False
+ANT,Mercedes,14,,,SOFT,5,1,1,,4229.655,False,False,Q3,False,False,False,False,False,False,True,False
+ANT,Mercedes,15,88.385,,SOFT,5,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+ANT,Mercedes,16,100.988,,SOFT,5,3,1,4514.511,,False,False,Q3,False,False,False,False,False,True,False,False
+ANT,Mercedes,17,,,SOFT,6,1,1,,4668.536,False,False,Q3,False,False,False,False,False,False,True,False
+ANT,Mercedes,18,88.111,,SOFT,6,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+ANT,Mercedes,19,,,SOFT,6,3,1,4978.473,,False,False,Q3,False,False,False,False,False,True,False,False
+BEA,Haas F1 Team,1,,,SOFT,1,1,1,,810.718,False,False,Q1,False,False,False,False,False,False,True,False
+BEA,Haas F1 Team,2,91.315,,SOFT,1,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+BEA,Haas F1 Team,3,102.933,,SOFT,1,3,1,1109.233,,False,False,Q1,False,False,False,False,False,True,False,False
+BEA,Haas F1 Team,4,,,SOFT,2,1,12,,1187.434,False,False,Q1,True,False,False,False,False,False,True,False
+BEA,Haas F1 Team,5,90.758,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+BEA,Haas F1 Team,6,103.916,,SOFT,2,3,1,1486.436,,False,False,Q1,False,False,False,False,False,True,False,False
+BEA,Haas F1 Team,7,,,SOFT,3,1,1,,1626.549,False,False,Q1,False,False,False,False,False,False,True,False
+BEA,Haas F1 Team,8,90.57,,SOFT,3,2,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+BEA,Haas F1 Team,9,117.27,,SOFT,3,3,1,1947.141,,False,False,Q1,False,False,False,False,False,True,False,False
+BEA,Haas F1 Team,10,,,SOFT,4,1,12,,2912.653,False,False,Q2,True,False,False,False,False,False,True,False
+BEA,Haas F1 Team,11,90.588,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+BEA,Haas F1 Team,12,111.608,,SOFT,4,3,1,3231.759,,False,False,Q2,False,False,False,False,False,True,False,False
+BEA,Haas F1 Team,13,,,SOFT,5,1,1,,3427.559,False,False,Q2,False,False,False,False,False,False,True,False
+BEA,Haas F1 Team,14,90.501,,SOFT,5,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+BEA,Haas F1 Team,15,124.328,,SOFT,5,3,1,3753.099,,False,False,Q2,False,False,False,False,False,True,False,False
+BOR,Audi,1,,,MEDIUM,1,9,1,936.424,821.28,False,False,Q1,False,False,False,False,False,True,True,False
+BOR,Audi,2,,,SOFT,2,1,12,,1704.882,False,False,Q1,True,False,False,False,False,False,True,False
+BOR,Audi,3,90.269,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+BOR,Audi,4,116.892,,SOFT,2,3,1,2025.192,,False,False,Q1,False,False,False,False,False,True,False,False
+BOR,Audi,5,,,SOFT,3,1,12,,2900.338,False,False,Q2,True,False,False,False,False,False,True,False
+BOR,Audi,6,89.916,,SOFT,3,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+BOR,Audi,7,108.193,,SOFT,3,3,1,3211.138,,False,False,Q2,False,False,False,False,False,True,False,False
+BOR,Audi,8,,,SOFT,4,1,1,,3443.19,False,False,Q2,False,False,False,False,False,False,True,False
+BOR,Audi,9,89.461,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+BOR,Audi,10,116.884,,SOFT,4,3,1,3763.531,,False,False,Q2,False,False,False,False,False,True,False,False
+BOT,Cadillac,1,,,SOFT,1,1,1,,786.874,False,False,Q1,False,False,False,False,False,False,True,False
+BOT,Cadillac,2,107.013,,SOFT,1,2,1,992.896,,False,False,Q1,False,False,False,False,False,True,False,False
+BOT,Cadillac,3,,,SOFT,2,1,12,,1169.153,False,False,Q1,True,False,False,False,False,False,True,False
+BOT,Cadillac,4,92.105,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+BOT,Cadillac,5,107.142,,SOFT,2,3,1,1472.664,,False,False,Q1,False,False,False,False,False,True,False,False
+BOT,Cadillac,6,,,SOFT,3,1,1,,1628.72,False,False,Q1,False,False,False,False,False,False,True,False
+BOT,Cadillac,7,91.227,,SOFT,3,2,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+BOT,Cadillac,8,119.267,,SOFT,3,3,1,1954.01,,False,False,Q1,False,False,False,False,False,True,False,False
+COL,Alpine,1,,,SOFT,1,1,1,,1030.876,False,False,Q1,False,False,False,False,False,False,True,False
+COL,Alpine,2,91.321,,SOFT,1,2,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+COL,Alpine,3,120.683,,SOFT,1,3,21,1352.197,,False,False,Q1,True,False,False,False,False,True,False,False
+COL,Alpine,4,,,SOFT,2,1,1,,1619.861,False,False,Q1,False,False,False,False,False,False,True,False
+COL,Alpine,5,131.992,,SOFT,2,2,12,1856.111,,False,False,Q1,True,False,False,False,False,True,False,False
+GAS,Alpine,1,,,SOFT,1,1,1,,1040.515,False,False,Q1,False,False,False,False,False,False,True,False
+GAS,Alpine,2,91.086,,SOFT,1,2,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+GAS,Alpine,3,114.014,,SOFT,1,3,21,1366.558,,False,False,Q1,True,False,False,False,False,True,False,False
+GAS,Alpine,4,,,SOFT,2,1,1,,1613.173,False,False,Q1,False,False,False,False,False,False,True,False
+GAS,Alpine,5,90.345,,SOFT,2,2,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+GAS,Alpine,6,117.566,,SOFT,2,3,1,1926.51,,False,False,Q1,False,False,False,False,False,True,False,False
+GAS,Alpine,7,,,SOFT,3,1,12,,2933.081,False,False,Q2,True,False,False,False,False,False,True,False
+GAS,Alpine,8,90.113,,SOFT,3,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+GAS,Alpine,9,117.632,,SOFT,3,3,1,3264.245,,False,False,Q2,False,False,False,False,False,True,False,False
+GAS,Alpine,10,,,SOFT,4,1,1,,3489.153,False,False,Q2,False,False,False,False,False,False,True,False
+GAS,Alpine,11,90.063,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+GAS,Alpine,12,116.616,,SOFT,4,3,1,3801.033,,False,False,Q2,False,False,False,False,False,True,False,False
+HAD,Red Bull Racing,1,,,SOFT,1,4,1,,1017.824,False,False,Q1,False,False,False,False,False,False,True,False
+HAD,Red Bull Racing,2,90.427,,SOFT,1,5,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+HAD,Red Bull Racing,3,114.548,,SOFT,1,6,21,1328.667,,False,False,Q1,True,False,False,False,False,True,False,False
+HAD,Red Bull Racing,4,,,SOFT,2,1,1,,1564.086,False,False,Q1,False,False,False,False,False,False,True,False
+HAD,Red Bull Racing,5,89.276,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+HAD,Red Bull Racing,6,128.895,,SOFT,2,3,12,1881.242,,False,False,Q1,True,False,False,False,False,True,False,False
+HAD,Red Bull Racing,7,,,SOFT,3,4,12,,2768.319,False,False,Q2,True,False,False,False,False,False,True,False
+HAD,Red Bull Racing,8,89.183,,SOFT,3,5,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+HAD,Red Bull Racing,9,116.14,,SOFT,3,6,1,3078.769,,False,False,Q2,False,False,False,False,False,True,False,False
+HAD,Red Bull Racing,10,,,SOFT,4,1,1,,3267.053,False,False,Q2,False,False,False,False,False,False,True,False
+HAD,Red Bull Racing,11,89.069,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+HAD,Red Bull Racing,12,110.328,,SOFT,4,3,1,3562.846,,False,False,Q2,False,False,False,False,False,True,False,False
+HAD,Red Bull Racing,13,,,SOFT,5,1,1,,4205.621,False,False,Q3,False,False,False,False,False,False,True,False
+HAD,Red Bull Racing,14,88.757,,SOFT,5,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+HAD,Red Bull Racing,15,103.631,,SOFT,5,3,1,4509.561,,False,False,Q3,False,False,False,False,False,True,False,False
+HAD,Red Bull Racing,16,,,SOFT,6,1,1,,4727.608,False,False,Q3,False,False,False,False,False,False,True,False
+HAD,Red Bull Racing,17,88.746,,SOFT,6,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+HAD,Red Bull Racing,18,,,SOFT,6,3,1,5046.388,,False,False,Q3,False,False,False,False,False,True,False,False
+HAM,Ferrari,1,,,SOFT,1,4,1,,875.202,False,False,Q1,False,False,False,False,False,False,True,False
+HAM,Ferrari,2,89.644,,SOFT,1,5,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+HAM,Ferrari,3,124.566,,SOFT,1,6,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+HAM,Ferrari,4,126.03,,SOFT,1,7,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+HAM,Ferrari,5,93.18,,SOFT,1,8,1,1430.427,,False,False,Q1,False,False,False,False,False,True,False,False
+HAM,Ferrari,6,,,SOFT,2,1,12,,2862.075,False,False,Q2,True,False,False,False,False,False,True,False
+HAM,Ferrari,7,88.864,,SOFT,2,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+HAM,Ferrari,8,117.475,,SOFT,2,3,1,3177.591,,False,False,Q2,False,False,False,False,False,True,False,False
+HAM,Ferrari,9,,,SOFT,3,1,1,,3422.84,False,False,Q2,False,False,False,False,False,False,True,False
+HAM,Ferrari,10,88.864,,SOFT,3,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+HAM,Ferrari,11,108.605,,SOFT,3,3,1,3731.14,,False,False,Q2,False,False,False,False,False,True,False,False
+HAM,Ferrari,12,,,SOFT,4,1,1,,4194.743,False,False,Q3,False,False,False,False,False,False,True,False
+HAM,Ferrari,13,88.591,,SOFT,4,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+HAM,Ferrari,14,103.52,,SOFT,4,3,1,4500.176,,False,False,Q3,False,False,False,False,False,True,False,False
+HAM,Ferrari,15,,,SOFT,5,1,1,,4714.208,False,False,Q3,False,False,False,False,False,False,True,False
+HAM,Ferrari,16,88.458,,SOFT,5,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+HAM,Ferrari,17,,,SOFT,5,3,1,5041.915,,False,False,Q3,False,False,False,False,False,True,False,False
+HUL,Audi,1,,,MEDIUM,1,7,1,,856.827,False,False,Q1,False,False,False,False,False,False,True,False
+HUL,Audi,2,91.508,,MEDIUM,1,8,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+HUL,Audi,3,100.558,,MEDIUM,1,9,1,1157.832,,False,False,Q1,False,False,False,False,False,True,False,False
+HUL,Audi,4,,,SOFT,2,1,12,,1199.378,False,False,Q1,True,False,False,False,False,False,True,False
+HUL,Audi,5,90.079,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+HUL,Audi,6,109.862,,SOFT,2,3,1,1517.176,,False,False,Q1,False,False,False,False,False,True,False,False
+HUL,Audi,7,,,SOFT,3,1,12,,1686.842,False,False,Q1,True,False,False,False,False,False,True,False
+HUL,Audi,8,89.539,,SOFT,3,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+HUL,Audi,9,109.398,,SOFT,3,3,1,2004.12,,False,False,Q1,False,False,False,False,False,True,False,False
+HUL,Audi,10,,,SOFT,4,1,12,,2894.119,False,False,Q2,True,False,False,False,False,False,True,False
+HUL,Audi,11,89.945,,SOFT,4,2,1,,,True,False,Q2,False,False,False,False,False,False,False,False
+HUL,Audi,12,100.529,,SOFT,4,3,1,3196.25,,False,False,Q2,False,False,False,False,False,True,False,False
+HUL,Audi,13,,,SOFT,5,1,1,,3464.987,False,False,Q2,False,False,False,False,False,False,True,False
+HUL,Audi,14,90.076,,SOFT,5,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+HUL,Audi,15,114.467,,SOFT,5,3,1,3780.721,,False,False,Q2,False,False,False,False,False,True,False,False
+LAW,Racing Bulls,1,,,SOFT,1,4,1,,846.871,False,False,Q1,False,False,False,False,False,False,True,False
+LAW,Racing Bulls,2,92.836,,SOFT,1,5,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+LAW,Racing Bulls,3,97.999,,SOFT,1,6,1,1148.927,,False,False,Q1,False,False,False,False,False,True,False,False
+LAW,Racing Bulls,4,,,SOFT,2,1,12,,1291.634,False,False,Q1,True,False,False,False,False,False,True,False
+LAW,Racing Bulls,5,90.0,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+LAW,Racing Bulls,6,99.305,,SOFT,2,3,1,1585.642,,False,False,Q1,False,False,False,False,False,True,False,False
+LAW,Racing Bulls,7,,,SOFT,3,1,12,,1678.078,False,False,Q1,True,False,False,False,False,False,True,False
+LAW,Racing Bulls,8,89.3,,SOFT,3,2,21,,,False,False,Q1,True,False,False,False,False,False,False,True
+LAW,Racing Bulls,9,115.639,,SOFT,3,3,1,2002.495,,False,False,Q1,False,False,False,False,False,True,False,False
+LAW,Racing Bulls,10,,,SOFT,4,1,12,,2871.106,False,False,Q2,True,False,False,False,False,False,True,False
+LAW,Racing Bulls,11,89.703,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+LAW,Racing Bulls,12,109.936,,SOFT,4,3,1,3186.575,,False,False,Q2,False,False,False,False,False,True,False,False
+LAW,Racing Bulls,13,,,SOFT,5,1,1,,3410.793,False,False,Q2,False,False,False,False,False,False,True,False
+LAW,Racing Bulls,14,89.429,,SOFT,5,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+LAW,Racing Bulls,15,117.494,,SOFT,5,3,1,3727.109,,False,False,Q2,False,False,False,False,False,True,False,False
+LAW,Racing Bulls,16,,,SOFT,6,4,1,,4175.565,False,False,Q3,False,False,False,False,False,False,True,False
+LAW,Racing Bulls,17,92.923,,SOFT,6,5,1,4369.554,,False,False,Q3,False,False,False,False,False,True,False,False
+LAW,Racing Bulls,18,,,SOFT,7,1,1,,4683.81,False,False,Q3,False,False,False,False,False,False,True,False
+LAW,Racing Bulls,19,89.716,,SOFT,7,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+LAW,Racing Bulls,20,,,SOFT,7,3,1,5017.601,,False,False,Q3,False,False,False,False,False,True,False,False
+LEC,Ferrari,1,,,SOFT,1,4,1,,866.515,False,False,Q1,False,False,False,False,False,False,True,False
+LEC,Ferrari,2,89.534,,SOFT,1,5,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+LEC,Ferrari,3,122.816,,SOFT,1,6,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+LEC,Ferrari,4,114.377,,SOFT,1,7,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+LEC,Ferrari,5,89.673,,SOFT,1,8,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+LEC,Ferrari,6,103.602,,SOFT,1,9,1,1502.226,,False,False,Q1,False,False,False,False,False,True,False,False
+LEC,Ferrari,7,,,SOFT,2,1,12,,2855.513,False,False,Q2,True,False,False,False,False,False,True,False
+LEC,Ferrari,8,89.069,,SOFT,2,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+LEC,Ferrari,9,108.183,,SOFT,2,3,1,3163.059,,False,False,Q2,False,False,False,False,False,True,False,False
+LEC,Ferrari,10,,,SOFT,3,1,1,,3414.809,False,False,Q2,False,False,False,False,False,False,True,False
+LEC,Ferrari,11,88.626,,SOFT,3,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+LEC,Ferrari,12,111.215,,SOFT,3,3,1,3728.126,,False,False,Q2,False,False,False,False,False,True,False,False
+LEC,Ferrari,13,,,SOFT,4,1,1,,4189.528,False,False,Q3,False,False,False,False,False,False,True,False
+LEC,Ferrari,14,88.62,,SOFT,4,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+LEC,Ferrari,15,105.982,,SOFT,4,3,1,4495.363,,False,False,Q3,False,False,False,False,False,True,False,False
+LEC,Ferrari,16,,,SOFT,5,1,1,,4707.858,False,False,Q3,False,False,False,False,False,False,True,False
+LEC,Ferrari,17,88.286,,SOFT,5,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+LEC,Ferrari,18,,,SOFT,5,3,1,5035.347,,False,False,Q3,False,False,False,False,False,True,False,False
+LIN,Racing Bulls,1,,,SOFT,1,4,1,,840.352,False,False,Q1,False,False,False,False,False,False,True,False
+LIN,Racing Bulls,2,92.375,,SOFT,1,5,1,1037.858,,False,False,Q1,False,False,False,False,False,True,False,False
+LIN,Racing Bulls,3,,,SOFT,2,1,12,,1194.362,False,False,Q1,True,False,False,False,False,False,True,False
+LIN,Racing Bulls,4,89.892,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+LIN,Racing Bulls,5,114.215,,SOFT,2,3,1,1503.835,,False,False,Q1,False,False,False,False,False,True,False,False
+LIN,Racing Bulls,6,,,SOFT,3,1,12,,1654.113,False,False,Q1,True,False,False,False,False,False,True,False
+LIN,Racing Bulls,7,89.661,,SOFT,3,2,21,,,False,False,Q1,True,False,False,False,False,False,False,True
+LIN,Racing Bulls,8,111.658,,SOFT,3,3,1,1987.385,,False,False,Q1,False,False,False,False,False,True,False,False
+LIN,Racing Bulls,9,,,SOFT,4,1,12,,2865.361,False,False,Q2,True,False,False,False,False,False,True,False
+LIN,Racing Bulls,10,89.324,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+LIN,Racing Bulls,11,112.99,,SOFT,4,3,1,3182.575,,False,False,Q2,False,False,False,False,False,True,False,False
+LIN,Racing Bulls,12,,,SOFT,5,1,1,,3405.653,False,False,Q2,False,False,False,False,False,False,True,False
+LIN,Racing Bulls,13,89.337,,SOFT,5,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+LIN,Racing Bulls,14,115.642,,SOFT,5,3,1,3717.046,,False,False,Q2,False,False,False,False,False,True,False,False
+LIN,Racing Bulls,15,,,SOFT,6,1,1,,4674.755,False,False,Q3,False,False,False,False,False,False,True,False
+LIN,Racing Bulls,16,89.305,,SOFT,6,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+LIN,Racing Bulls,17,,,SOFT,6,3,1,4997.143,,False,False,Q3,False,False,False,False,False,True,False,False
+NOR,McLaren,1,,,SOFT,1,4,1,,1005.481,False,False,Q1,False,False,False,False,False,False,True,False
+NOR,McLaren,2,90.186,,SOFT,1,5,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+NOR,McLaren,3,113.948,,SOFT,1,6,12,1303.156,,False,False,Q1,True,False,False,False,False,True,False,False
+NOR,McLaren,4,,,SOFT,2,1,1,,1635.995,False,False,Q1,False,False,False,False,False,False,True,False
+NOR,McLaren,5,106.246,,SOFT,2,2,12,1873.66,,False,False,Q1,True,False,False,False,False,True,False,False
+NOR,McLaren,6,,,SOFT,3,3,12,,2928.747,False,False,Q2,True,False,False,False,False,False,True,False
+NOR,McLaren,7,89.857,,SOFT,3,4,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+NOR,McLaren,8,103.981,,SOFT,3,5,1,3234.181,,False,False,Q2,False,False,False,False,False,True,False,False
+NOR,McLaren,9,,,SOFT,4,1,1,,3402.372,False,False,Q2,False,False,False,False,False,False,True,False
+NOR,McLaren,10,89.383,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+NOR,McLaren,11,114.124,,SOFT,4,3,1,3702.196,,False,False,Q2,False,False,False,False,False,True,False,False
+NOR,McLaren,12,,,SOFT,5,1,1,,4178.815,False,False,Q3,False,False,False,False,False,False,True,False
+NOR,McLaren,13,89.315,,SOFT,5,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+NOR,McLaren,14,104.524,,SOFT,5,3,1,4478.863,,False,False,Q3,False,False,False,False,False,True,False,False
+NOR,McLaren,15,,,SOFT,6,1,1,,4670.77,False,False,Q3,False,False,False,False,False,False,True,False
+NOR,McLaren,16,88.877,,SOFT,6,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+NOR,McLaren,17,,,SOFT,6,3,1,4982.691,,False,False,Q3,False,False,False,False,False,True,False,False
+OCO,Haas F1 Team,1,,,SOFT,1,1,1,,804.296,False,False,Q1,False,False,False,False,False,False,True,False
+OCO,Haas F1 Team,2,91.648,,SOFT,1,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+OCO,Haas F1 Team,3,105.844,,SOFT,1,3,1,1107.428,,False,False,Q1,False,False,False,False,False,True,False,False
+OCO,Haas F1 Team,4,,,SOFT,2,1,12,,1214.154,False,False,Q1,True,False,False,False,False,False,True,False
+OCO,Haas F1 Team,5,90.702,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+OCO,Haas F1 Team,6,103.96,,SOFT,2,3,1,1516.208,,False,False,Q1,False,False,False,False,False,True,False,False
+OCO,Haas F1 Team,7,,,SOFT,3,1,1,,1624.204,False,False,Q1,False,False,False,False,False,False,True,False
+OCO,Haas F1 Team,8,90.68,,SOFT,3,2,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+OCO,Haas F1 Team,9,120.773,,SOFT,3,3,1,1944.204,,False,False,Q1,False,False,False,False,False,True,False,False
+PER,Cadillac,1,,,SOFT,1,1,1,,792.236,False,False,Q1,False,False,False,False,False,False,True,False
+PER,Cadillac,2,92.199,,SOFT,1,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+PER,Cadillac,3,102.511,,SOFT,1,3,1,1086.234,,False,False,Q1,False,False,False,False,False,True,False,False
+PER,Cadillac,4,,,SOFT,2,1,12,,1217.42,False,False,Q1,True,False,False,False,False,False,True,False
+PER,Cadillac,5,91.94,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+PER,Cadillac,6,104.655,,SOFT,2,3,1,1528.495,,False,False,Q1,False,False,False,False,False,True,False,False
+PER,Cadillac,7,,,SOFT,3,1,12,,1710.367,False,False,Q1,True,False,False,False,False,False,True,False
+PER,Cadillac,8,91.451,,SOFT,3,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+PER,Cadillac,9,,,SOFT,3,3,1,2027.223,,False,False,Q1,False,False,False,False,False,True,False,False
+PIA,McLaren,1,,,SOFT,1,4,1,,1033.765,False,False,Q1,False,False,False,False,False,False,True,False
+PIA,McLaren,2,90.558,,SOFT,1,5,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+PIA,McLaren,3,109.95,,SOFT,1,6,21,1348.78,,False,False,Q1,True,False,False,False,False,True,False,False
+PIA,McLaren,4,,,SOFT,2,1,1,,1499.834,False,False,Q1,False,False,False,False,False,False,True,False
+PIA,McLaren,5,89.971,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+PIA,McLaren,6,115.484,,SOFT,2,3,12,1804.717,,False,False,Q1,True,False,False,False,False,True,False,False
+PIA,McLaren,7,,,SOFT,3,4,12,,2888.494,False,False,Q2,True,False,False,False,False,False,True,False
+PIA,McLaren,8,89.965,,SOFT,3,5,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+PIA,McLaren,9,105.124,,SOFT,3,6,1,3191.766,,False,False,Q2,False,False,False,False,False,True,False,False
+PIA,McLaren,10,,,SOFT,4,1,1,,3395.781,False,False,Q2,False,False,False,False,False,False,True,False
+PIA,McLaren,11,89.218,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+PIA,McLaren,12,118.171,,SOFT,4,3,1,3698.085,,False,False,Q2,False,False,False,False,False,True,False,False
+PIA,McLaren,13,,,SOFT,5,1,1,,4166.896,False,False,Q3,False,False,False,False,False,False,True,False
+PIA,McLaren,14,89.231,,SOFT,5,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+PIA,McLaren,15,108.072,,SOFT,5,3,1,4459.495,,False,False,Q3,False,False,False,False,False,True,False,False
+PIA,McLaren,16,,,SOFT,6,1,1,,4679.373,False,False,Q3,False,False,False,False,False,False,True,False
+PIA,McLaren,17,89.032,,SOFT,6,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+PIA,McLaren,18,,,SOFT,6,3,1,5003.049,,False,False,Q3,False,False,False,False,False,True,False,False
+RUS,Mercedes,1,,,SOFT,1,4,1,,1066.374,False,False,Q1,False,False,False,False,False,False,True,False
+RUS,Mercedes,2,,,SOFT,1,5,12,1336.655,,False,False,Q1,True,False,False,False,False,True,False,False
+RUS,Mercedes,3,,,SOFT,2,1,1,,1488.28,False,False,Q1,False,False,False,False,False,False,True,False
+RUS,Mercedes,4,89.985,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+RUS,Mercedes,5,120.421,,SOFT,2,3,12,1793.717,,False,False,Q1,True,False,False,False,False,True,False,False
+RUS,Mercedes,6,,,SOFT,3,1,21,,2908.872,False,False,Q2,True,False,False,False,False,False,True,False
+RUS,Mercedes,7,88.92,,SOFT,3,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+RUS,Mercedes,8,108.242,,SOFT,3,3,1,3222.494,,False,False,Q2,False,False,False,False,False,True,False,False
+RUS,Mercedes,9,,,SOFT,4,4,1,,3511.668,False,False,Q2,False,False,False,False,False,False,True,False
+RUS,Mercedes,10,89.567,,SOFT,4,5,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+RUS,Mercedes,11,,,SOFT,4,6,1,3811.731,,False,False,Q2,False,False,False,False,False,True,False,False
+RUS,Mercedes,12,,,SOFT,5,1,1,,4237.686,False,False,Q3,False,False,False,False,False,False,True,False
+RUS,Mercedes,13,88.481,,SOFT,5,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+RUS,Mercedes,14,103.762,,SOFT,5,3,1,4524.058,,False,False,Q3,False,False,False,False,False,True,False,False
+RUS,Mercedes,15,,,SOFT,6,1,1,,4693.561,False,False,Q3,False,False,False,False,False,False,True,False
+RUS,Mercedes,16,88.686,,SOFT,6,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+RUS,Mercedes,17,,,SOFT,6,3,1,5025.144,,False,False,Q3,False,False,False,False,False,True,False,False
+SAI,Williams,1,,,SOFT,1,7,1,,798.577,False,False,Q1,False,False,False,False,False,False,True,False
+SAI,Williams,2,93.46,,SOFT,1,8,1,,,True,False,Q1,False,False,False,False,False,False,False,False
+SAI,Williams,3,102.159,,SOFT,1,9,1,1096.534,,False,False,Q1,False,False,False,False,False,True,False,False
+SAI,Williams,4,,,SOFT,2,1,12,,1223.899,False,False,Q1,True,False,False,False,False,False,True,False
+SAI,Williams,5,91.052,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+SAI,Williams,6,105.034,,SOFT,2,3,1,1522.096,,False,False,Q1,False,False,False,False,False,True,False,False
+SAI,Williams,7,,,SOFT,3,1,1,,1648.517,False,False,Q1,False,False,False,False,False,False,True,False
+SAI,Williams,8,90.562,,SOFT,3,2,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+SAI,Williams,9,114.856,,SOFT,3,3,1,1985.245,,False,False,Q1,False,False,False,False,False,True,False,False
+SAI,Williams,10,,,SOFT,4,1,12,,2844.671,False,False,Q2,True,False,False,False,False,False,True,False
+SAI,Williams,11,90.825,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+SAI,Williams,12,117.484,,SOFT,4,3,1,3151.069,,False,False,Q2,False,False,False,False,False,True,False,False
+SAI,Williams,13,,,SOFT,5,1,1,,3434.677,False,False,Q2,False,False,False,False,False,False,True,False
+SAI,Williams,14,90.623,,SOFT,5,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+SAI,Williams,15,119.642,,SOFT,5,3,1,3756.671,,False,False,Q2,False,False,False,False,False,True,False,False
+STR,Aston Martin,1,,,SOFT,1,1,1,,815.687,False,False,Q1,False,False,False,False,False,False,True,False
+STR,Aston Martin,2,93.835,,SOFT,1,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+STR,Aston Martin,3,109.114,,SOFT,1,3,1,1126.886,,False,False,Q1,False,False,False,False,False,True,False,False
+STR,Aston Martin,4,143.976,,SOFT,2,1,12,,1166.197,False,False,Q1,True,False,False,False,False,False,True,False
+STR,Aston Martin,5,93.577,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+STR,Aston Martin,6,113.43,,SOFT,2,3,1,1477.142,,False,False,Q1,False,False,False,False,False,True,False,False
+STR,Aston Martin,7,,,SOFT,3,1,1,,1632.798,False,False,Q1,False,False,False,False,False,False,True,False
+STR,Aston Martin,8,92.863,,SOFT,3,2,12,,,False,False,Q1,True,False,False,False,False,False,False,True
+STR,Aston Martin,9,118.49,,SOFT,3,3,1,1966.542,,False,False,Q1,False,False,False,False,False,True,False,False
+VER,Red Bull Racing,1,,,SOFT,1,4,1,,1010.871,False,False,Q1,False,False,False,False,False,False,True,False
+VER,Red Bull Racing,2,90.219,,SOFT,1,5,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+VER,Red Bull Racing,3,116.515,,SOFT,1,6,12,1321.172,,False,False,Q1,True,False,False,False,False,True,False,False
+VER,Red Bull Racing,4,,,SOFT,2,1,1,,1558.376,False,False,Q1,False,False,False,False,False,False,True,False
+VER,Red Bull Racing,5,89.549,,SOFT,2,2,1,,,False,False,Q1,False,False,False,False,False,False,False,True
+VER,Red Bull Racing,6,114.696,,SOFT,2,3,12,1859.579,,False,False,Q1,True,False,False,False,False,True,False,False
+VER,Red Bull Racing,7,,,SOFT,3,4,12,,2765.851,False,False,Q2,True,False,False,False,False,False,True,False
+VER,Red Bull Racing,8,89.308,,SOFT,3,5,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+VER,Red Bull Racing,9,111.804,,SOFT,3,6,1,3065.097,,False,False,Q2,False,False,False,False,False,True,False,False
+VER,Red Bull Racing,10,,,SOFT,4,1,1,,3258.206,False,False,Q2,False,False,False,False,False,False,True,False
+VER,Red Bull Racing,11,89.113,,SOFT,4,2,1,,,False,False,Q2,False,False,False,False,False,False,False,True
+VER,Red Bull Racing,12,109.699,,SOFT,4,3,1,3554.217,,False,False,Q2,False,False,False,False,False,True,False,False
+VER,Red Bull Racing,13,,,SOFT,5,1,1,,4185.715,False,False,Q3,False,False,False,False,False,False,True,False
+VER,Red Bull Racing,14,89.151,,SOFT,5,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+VER,Red Bull Racing,15,101.722,,SOFT,5,3,1,4483.207,,False,False,Q3,False,False,False,False,False,True,False,False
+VER,Red Bull Racing,16,,,SOFT,6,1,1,,4703.53,False,False,Q3,False,False,False,False,False,False,True,False
+VER,Red Bull Racing,17,88.893,,SOFT,6,2,1,,,False,False,Q3,False,False,False,False,False,False,False,True
+VER,Red Bull Racing,18,,,SOFT,6,3,1,5026.472,,False,False,Q3,False,False,False,False,False,True,False,False
