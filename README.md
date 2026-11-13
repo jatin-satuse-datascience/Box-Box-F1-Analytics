@@ -286,7 +286,7 @@ BOX-BOX-F1-ANALYTICS/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-user>/BOX-BOX-F1-ANALYTICS.git
+git clone https://github.com/<https://github.com/jatin-satuse-datascience>/BOX-BOX-F1-ANALYTICS.git
 
 cd BOX-BOX-F1-ANALYTICS
 
