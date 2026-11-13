@@ -235,15 +235,24 @@ BOX-BOX-F1-ANALYTICS/
 │
 ├── data/
 │   ├── raw/
-│   │   ├── race/
-│   │   └── qualifying/
+│   │   ├── qualifying/
+│   │   │   └── session_laptimes.json
+│   │   │
+│   │   └── race/
+│   │       ├── drivers.json
+│   │       └── session_laptimes.json
 │   │
 │   └── processed/
+│       ├── qualifying_laps_clean.csv
+│       ├── qualifying_vs_race.csv
+│       ├── race_laps_clean.csv
+│       └── race_pace_summary.csv
 │
 ├── notebooks/
 │   └── race_analysis.ipynb
 │
 ├── src/
+│   ├── __init__.py
 │   ├── data_loader.py
 │   ├── data_cleaning.py
 │   ├── driver_analysis.py
@@ -252,6 +261,12 @@ BOX-BOX-F1-ANALYTICS/
 │
 ├── outputs/
 │   └── plots/
+│       ├── 1_pace_ranking.png
+│       ├── 2_pace_vs_consistency.png
+│       ├── 3_strategy.png
+│       ├── 4_degradation.png
+│       ├── 5_position_trace.png
+│       └── 6_quali_vs_race.png
 │
 ├── requirements.txt
 ├── README.md
